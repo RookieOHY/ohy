@@ -3,3 +3,4 @@
 我是陈素恩。edit by ohy
 please ouhuanyu pull
 我是ouhuanyu
+自动ssh免密码登录
